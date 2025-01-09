@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Gabriel Valenço!
 
-<!--
-**gabrielvalenco/gabrielvalenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **About Me:**  
+I'm a passionate **Web and Mobile Developer** with expertise in **WordPress**, **Python**, **Laravel**, and **Flutter**. I focus on building responsive and user-friendly web and mobile applications for **Android** and **iOS**. Currently, I’m also diving into **cybersecurity** and working on exciting projects that combine **design** and **development** to maximize user experience and ROI.
 
-Here are some ideas to get you started:
+🎓 **Education:**  
+- I'm finishing my **Technology in Systems Analysis and Development (TDS)** degree this year! 🎓  
+- My final project is a **canteen management system** with real-time inventory updates, prioritization, and user-friendly features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **What I Do:**  
+- 🌐 WordPress Theme Development (currently working on the **gprodemi** theme)  
+- 📱 Cross-platform Mobile Apps with **Flutter**  
+- 🎨 UI/UX design with tools like **Figma**  
+- 🔎 ROI-focused strategies for publishers at my startup  
+
+🌟 **Goals:**  
+- 🌍 Work abroad, particularly in **Australia**.  
+- 💪 Build strength and muscle while balancing my work-life goals.  
+- ❤️ Retire my mom and build a loving family with honest work.
+
+📖 **Hobbies & Interests:**  
+- 💡 Reading self-help books for personal and social growth.  
+- 🎬 Watching movies to relax and get inspired.  
+- 🚀 Exploring new challenges, like **cybersecurity** and **investing**.
+
+📫 **Let's Connect:**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
+- 📧 Email: [seu-email@example.com](mailto:seu-email@example.com)  
+- 🌐 Portfolio: [seu-site.com](https://seu-site.com)
+
+⚡ **Fun Fact:**  
+I love working on ambitious projects that make a real impact and always strive to learn something new every day!
