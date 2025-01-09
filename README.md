@@ -24,8 +24,8 @@ I'm a passionate **Web and Mobile Developer** with expertise in **WordPress**, *
 - 🚀 Exploring new challenges, like **cybersecurity** and **investing**.
 
 📫 **Let's Connect:**  
-- 🌐 Website: [gabrielvalenco.github.io/curriculum](https://gabrielvalenco.github.io/curriculum/)  
-- 💼 Portfolio: [GitHub Portfolio](https://github.com/gabrielvalenco/curriculum/settings/pages)  
+- 💼 LinkedIn: [Gabriel Valenço](https://www.linkedin.com/in/gabriel-valen%C3%A7o-480b43276/)  
+- 💻 Portfolio: [GitHub Portfolio](https://github.com/gabrielvalenco/curriculum/settings/pages)  
 - 📧 Email: [gabrielvalencoofc@gmail.com](mailto:gabrielvalencoofc@gmail.com)
 
 ⚡ **Fun Fact:**  
