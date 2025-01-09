@@ -17,3 +17,9 @@ I'm a passionate **Web and Mobile Developer** with expertise in **WordPress**, *
 - 💼 LinkedIn: [Gabriel Valenço](https://www.linkedin.com/in/gabriel-valen%C3%A7o-480b43276/)  
 - 💻 Portfolio: [GitHub Portfolio](https://github.com/gabrielvalenco/curriculum/settings/pages)  
 - 📧 Email: [gabrielvalencoofc@gmail.com](mailto:gabrielvalencoofc@gmail.com)
+
+## 📊 GitHub Stats
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvalenco&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvalenco&layout=compact&theme=radical)
