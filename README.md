@@ -13,20 +13,7 @@ I'm a passionate **Web and Mobile Developer** with expertise in **WordPress**, *
 - 🎨 UI/UX design with tools like **Figma**  
 - 🔎 ROI-focused strategies for publishers at my startup  
 
-🌟 **Goals:**  
-- 🌍 Work abroad, particularly in **Australia**.  
-- 💪 Build strength and muscle while balancing my work-life goals.  
-- ❤️ Retire my mom and build a loving family with honest work.
-
-📖 **Hobbies & Interests:**  
-- 💡 Reading self-help books for personal and social growth.  
-- 🎬 Watching movies to relax and get inspired.  
-- 🚀 Exploring new challenges, like **cybersecurity** and **investing**.
-
 📫 **Let's Connect:**  
 - 💼 LinkedIn: [Gabriel Valenço](https://www.linkedin.com/in/gabriel-valen%C3%A7o-480b43276/)  
 - 💻 Portfolio: [GitHub Portfolio](https://github.com/gabrielvalenco/curriculum/settings/pages)  
 - 📧 Email: [gabrielvalencoofc@gmail.com](mailto:gabrielvalencoofc@gmail.com)
-
-⚡ **Fun Fact:**  
-I love working on ambitious projects that make a real impact and always strive to learn something new every day!
