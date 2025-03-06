@@ -11,14 +11,3 @@
 - 🚀 **Tools:** Git, WindSurf, MySQL, Heidi
 
 ## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gabrielvalenco&show_icons=true&theme=radical" alt="Gabriel's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvalenco&layout=compact&theme=radical" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
