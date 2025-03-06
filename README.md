@@ -5,6 +5,11 @@
 - 💻 Portfolio: [GitHub Portfolio](https://github.com/gabrielvalenco/curriculum/settings/pages)  
 - 📧 Email: [gabrielvalencoofc@gmail.com](mailto:gabrielvalencoofc@gmail.com)
 
+## 🔧 Technologies & Tools
+
+- 🖥️ **Languages:** Laravel, Python, JavaScript, Flutter  
+- 🚀 **Tools:** Git, WindSurf, MySQL, Heidi
+
 ## 📊 GitHub Stats
 
 <table>
@@ -17,4 +22,3 @@
     </td>
   </tr>
 </table>
-
