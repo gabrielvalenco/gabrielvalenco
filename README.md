@@ -1,24 +1,50 @@
-## Hi there 👋 I'm Gabriel Valenço!
+# Gabriel Valenço
 
-📫 **Let's Connect:**  
-- 💼 LinkedIn: [Gabriel Valenço](https://www.linkedin.com/in/gabriel-valen%C3%A7o-480b43276/)  
-- 💻 Portfolio: [GitHub Portfolio](https://github.com/gabrielvalenco/curriculum/settings/pages)  
-- 📧 Email: [gabrielvalencoofc@gmail.com](mailto:gabrielvalencoofc@gmail.com)
+## 👋 About Me
+Professional developer passionate about creating efficient, scalable solutions. Specializing in backend development with Laravel and exploring mobile app development with Flutter.
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Valenço-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-valen%C3%A7o-480b43276/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/gabrielvalenco/curriculum/settings/pages)
+[![Email](https://img.shields.io/badge/Email-gabrielvalencoofc@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:gabrielvalencoofc@gmail.com)
 
 ## 🔧 Technologies & Tools
 
-- 🖥️ **Languages:** Laravel, Python, JavaScript, Flutter  
-- 🚀 **Tools:** Git, WindSurf, MySQL, Heidi
+### Languages & Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Tools & Databases
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WindSurf](https://img.shields.io/badge/WindSurf-0078D7?style=for-the-badge)
+![Heidi](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=gabrielvalenco&show_icons=true&theme=default" alt="Gabriel's GitHub stats" width="350" height="350" />
-    </td>
-    <td style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvalenco&layout=compact&theme=default" alt="Top Langs" width="350" height="350" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/gabrielvalenco">
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielvalenco&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180em" alt="Gabriel's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvalenco&layout=compact&langs_count=8&theme=dark" height="180em" alt="Gabriel's most used languages"/>
+  </a>
+</div>
+
+## 🌟 Featured Projects
+<!--
+Uncomment and populate this section when you're ready to showcase some projects
+
+### [Project Name](https://github.com/username/project-name)
+Brief description of the project. What problems does it solve? What technologies did you use?
+
+### [Another Project](https://github.com/username/another-project)
+Brief description of the project. What problems does it solve? What technologies did you use?
+-->
+
+## 🚀 Current Focus
+Currently improving my skills in cloud architecture and exploring microservices with Docker and Kubernetes.
+
+---
+
+⭐️ From [gabrielvalenco](https://github.com/gabrielvalenco)
