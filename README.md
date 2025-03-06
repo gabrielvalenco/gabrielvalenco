@@ -14,11 +14,11 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gabrielvalenco&show_icons=true&theme=default" alt="Gabriel's GitHub stats" />
+    <td style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=gabrielvalenco&show_icons=true&theme=default&hide_title=true" alt="Gabriel's GitHub stats" width="100%" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvalenco&layout=compact&theme=default" alt="Top Langs" />
+    <td style="width: 50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvalenco&layout=compact&theme=default&hide_title=true" alt="Top Langs" width="100%" />
     </td>
   </tr>
 </table>
