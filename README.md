@@ -27,6 +27,8 @@ Professional developer passionate about creating efficient, scalable solutions. 
 <div align="center">
   <a href="https://github.com/gabrielvalenco">
     <img src="https://github-readme-stats.vercel.app/api?username=gabrielvalenco&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180em" alt="Gabriel's GitHub stats"/>
+  </a>
+  <a href="https://github.com/gabrielvalenco">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvalenco&layout=compact&langs_count=8&theme=dark" height="180em" alt="Gabriel's most used languages"/>
   </a>
 </div>
