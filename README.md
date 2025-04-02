@@ -5,7 +5,7 @@ Professional developer passionate about creating efficient, scalable solutions. 
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Valenço-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-valen%C3%A7o-480b43276/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/gabrielvalenco/curriculum/settings/pages)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)]([https://github.com/gabrielvalenco/curriculum/settings/pages](https://gabrielvalenco.github.io/portfolio/))
 [![Email](https://img.shields.io/badge/Email-gabrielvalencoofc@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:gabrielvalencoofc@gmail.com)
 
 ## 🔧 Technologies & Tools
