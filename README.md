@@ -33,17 +33,6 @@ Professional developer passionate about creating efficient, scalable solutions. 
   </a>
 </div>
 
-## 🌟 Featured Projects
-<!--
-Uncomment and populate this section when you're ready to showcase some projects
-
-### [Project Name](https://github.com/username/project-name)
-Brief description of the project. What problems does it solve? What technologies did you use?
-
-### [Another Project](https://github.com/username/another-project)
-Brief description of the project. What problems does it solve? What technologies did you use?
--->
-
 ## 🚀 Current Focus
 Currently improving my skills in cloud architecture and exploring microservices with Docker and Kubernetes.
 
