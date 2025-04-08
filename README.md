@@ -1,26 +1,34 @@
 # Gabriel Valenço
 
-## 👋 About Me
-Professional developer passionate about creating efficient, scalable solutions. Specializing in backend development with Laravel and exploring mobile app development with Flutter.
+## 👨‍💻 About Me
+Full-stack developer passionate about creating efficient, scalable solutions. Specializing in backend development with Laravel while exploring mobile application development with Flutter.
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Valenço-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-valen%C3%A7o-480b43276/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)](https://gabrielvalenco.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-gabrielvalencoofc@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:gabrielvalencoofc@gmail.com)
+## 🔧 Tech Stack
 
-## 🔧 Technologies & Tools
-
-### Languages & Frameworks
+### Backend & Programming
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Tools & Databases
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge)
+![DBeaver](https://img.shields.io/badge/DBeaver-5B5B5B?style=for-the-badge&logo=dbeaver&logoColor=white)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![WindSurf](https://img.shields.io/badge/WindSurf-0078D7?style=for-the-badge)
-![Heidi](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge)
+
+## 🚀 Current Focus
+- Improving my skills Python
+- Exploring microservices with Docker and Mysql
+- Deepening my knowledge of backend development
 
 ## 📊 GitHub Stats
 
@@ -33,8 +41,15 @@ Professional developer passionate about creating efficient, scalable solutions. 
   </a>
 </div>
 
-## 🚀 Current Focus
-Currently improving my skills in cloud architecture and exploring microservices with Docker and Kubernetes.
+## 🌱 Recent Projects
+- **[Check out my repositories](https://github.com/gabrielvalenco?tab=repositories)** to see what I've been working on
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Valenço-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-valen%C3%A7o-480b43276/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4285F4?style=for-the-badge&logo=google-chrome)](https://gabrielvalenco.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Email-gabrielvalencoofc@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:gabrielvalencoofc@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gabrielvalenco-181717?style=for-the-badge&logo=github)](https://github.com/gabrielvalenco)
 
 ---
 
