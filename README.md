@@ -26,7 +26,7 @@ Full-stack developer passionate about creating efficient, scalable solutions. Sp
 ![WindSurf](https://img.shields.io/badge/WindSurf-0078D7?style=for-the-badge)
 
 ## 🚀 Current Focus
-- Improving my skills Python
+- Improving my Python skills
 - Exploring microservices with Docker and Mysql
 - Deepening my knowledge of backend development
 
