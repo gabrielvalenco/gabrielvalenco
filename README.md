@@ -29,6 +29,8 @@ Full-stack developer passionate about creating efficient, scalable solutions. Sp
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![ISPConfig](https://img.shields.io/badge/ISPConfig-E95420?style=for-the-badge)
+
 
 ## 🚀 Current Focus
 - Improving my Python skills
