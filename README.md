@@ -1,11 +1,27 @@
-Hi there! 👋
+Hello! My name is Gabriel de Souza Valenço and I'm glad you visited my profile.
 
-I'm a Full-stack Developer with a strong focus on backend development using Laravel, Python, and React.
+- Founder of Enfantia
+- Full-Stack Developer
+- Technology and Systems Development Student at UNISALESIANO: Catholic Salesian University Center Auxilium
 
-I also enjoy developing frontend interfaces, leveraging React and Vue.js. For design, I utilize tools like Figma and Excalidraw.
+## Skills:
 
-My toolkit includes Docker, GitHub, and Postman. I'm also proficient in database analysis and configuration.
+### Backend:
+I have a strong focus on backend development, primarily using:
+- **Laravel**
+- **Python**
 
-Currently, I serve as the CEO of Enfantia.
+### Frontend:
+I enjoy developing frontend interfaces, leveraging:
+- **React**
+- **Vue.js**
+For design, I utilize tools like **Figma** and **Excalidraw**.
+
+## Tools & Diverse Skills:
+My toolkit includes **Docker**, **GitHub**, and **Postman**. I'm also proficient in **database analysis and configuration**.
 
 I enjoy taking initiative in projects and am always curious about new professional opportunities.
+
+## Contact:
+- Email: gabrielvalencoofc@gmail.com
+- LinkedIn: www.linkedin.com/in/gabriel-valenço-480b43276
