@@ -8,6 +8,7 @@ Hello! My name is Gabriel de Souza Valenço and I'm glad you visited my profile.
 
 ### Backend:
 I have a strong focus on backend development, primarily using:
+- **Java**
 - **Laravel**
 - **Python**
 
