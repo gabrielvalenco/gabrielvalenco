@@ -1,28 +1,47 @@
-Hello! My name is Gabriel de Souza Valenço and I'm glad you visited my profile.
+# Gabriel de Souza Valenço
 
-- Founder of Enfantia
-- Full-Stack Developer
-- Technology and Systems Development Student at UNISALESIANO: Catholic Salesian University Center Auxilium
+Hello! My name is Gabriel de Souza Valenço and I'm glad you visited my profile.  
 
-## Skills:
+- Founder of **Enfantia**  
+- **Full-Stack Developer**  
+- Technology and Systems Development Student at **UNISALESIANO: Catholic Salesian University Center Auxilium**  
+- Actively working on **system automation** and the development of **SaaS solutions**, focusing on scalability and efficiency  
 
-### Backend:
-I have a strong focus on backend development, primarily using:
-- **Java**
-- **Laravel**
-- **Python**
+---
 
-### Frontend:
-I enjoy developing frontend interfaces, leveraging:
-- **React**
-- **Vue.js**
-For design, I utilize tools like **Figma** and **Excalidraw**.
+## 🛠 Skills
 
-## Tools & Diverse Skills:
-My toolkit includes **Docker**, **GitHub**, and **Postman**. I'm also proficient in **database analysis and configuration**.
+### Backend
+Specialized in backend development, with strong experience in:  
+- **Java**  
+- **Laravel**  
+- **Python**  
+- **n8n**
 
-I enjoy taking initiative in projects and am always curious about new professional opportunities.
+### Frontend
+Passionate about building intuitive and efficient interfaces using:  
+- **React**  
+- **Vue.js**  
+Complemented by design expertise with:  
+- **Figma**  
+- **Excalidraw**  
 
-## Contact:
-- Email: gabrielvalencoofc@gmail.com
-- LinkedIn: www.linkedin.com/in/gabriel-valenço-480b43276
+---
+
+## ⚙ Tools & Additional Expertise
+- **Docker**  
+- **GitHub**  
+- **Postman**  
+- **Database analysis and configuration**  
+- Experience in **automation workflows** and **cloud-based SaaS architectures**  
+
+---
+
+## 🌱 About Me
+I am proactive in driving projects forward and continuously seeking innovative solutions and professional growth opportunities.  
+
+---
+
+## 📩 Contact
+- Email: **gabrielvalencoofc@gmail.com**  
+- LinkedIn: [Gabriel Valenço](https://www.linkedin.com/in/gabriel-valenço-480b43276)  
