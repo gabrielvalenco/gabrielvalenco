@@ -23,8 +23,7 @@ Passionate about building intuitive and efficient interfaces using:
 - **React**  
 - **Vue.js**  
 Complemented by design expertise with:  
-- **Figma**  
-- **Excalidraw**  
+- **Figma**
 
 ---
 
