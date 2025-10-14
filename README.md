@@ -34,11 +34,6 @@ Complemented by design expertise with:
 
 ---
 
-## 🌱 About Me
-I am proactive in driving projects forward and continuously seeking innovative solutions and professional growth opportunities.  
-
----
-
 ## 📩 Contact
 - Email: **gabrielvalencoofc@gmail.com**  
 - LinkedIn: [Gabriel Valenço](https://www.linkedin.com/in/gabriel-valenço-480b43276)  
