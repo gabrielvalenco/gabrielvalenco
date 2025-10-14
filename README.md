@@ -23,6 +23,7 @@ Passionate about building intuitive and efficient interfaces using:
 **Vue** | **React**
 
 Complemented by design expertise with:  
+
 **Figma**
 
 ---
