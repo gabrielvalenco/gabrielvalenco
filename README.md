@@ -14,24 +14,21 @@ https://enfantia.com.br/
 
 ### Backend
 Specialized in backend development, with strong experience in:  
-- **Java**  
-- **Laravel**  
-- **Python**  
-- **n8n**
+
+**Java** | **Python** | **PHP** | **Laravel**
 
 ### Frontend
-Passionate about building intuitive and efficient interfaces using:  
-- **React**  
-- **Vue.js**  
+Passionate about building intuitive and efficient interfaces using:
+
+**Vue** | **React**
+
 Complemented by design expertise with:  
-- **Figma**
+**Figma**
 
 ---
 
 ## ⚙ Tools & Additional Expertise
-- **Docker**  
-- **GitHub**  
-- **Postman**  
+**Docker** | **Git**
 - **Database analysis and configuration**  
 - Experience in **automation workflows** and **cloud-based SaaS architectures**  
 
